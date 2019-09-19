@@ -11,4 +11,13 @@
   "profile": {
     "name": "typicode"
   }
+  {
+    "caseSummaries": [
+        {
+            "personId": "2290669",
+            "caseFound": false,
+            "memberFound": true
+        }
+    ]
+}
 }
